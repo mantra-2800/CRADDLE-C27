@@ -4,9 +4,9 @@ class bob
 	{
 		var options={
 			isStatic:false,
-			restitution:1,
+			restitution:4,
 			friction:0,
-			density:0.8
+			density:1
 			
 			}
 		this.x=x;
